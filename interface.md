@@ -1,16 +1,19 @@
 #接口说明
 
 ##certify.php
+
 ###参数
 * userName : 用户名
 * passwords : 密码
-###返回
-{
-	certified : true,
-	userNickName : "用户昵称",
-	userID : "用户ID"
-}
 
+###返回
+	{
+		certified : true,
+		userNickName : "用户昵称",
+		userID : "用户ID"
+	}
+
+===
 
 ##querySource.php
 ###参数
