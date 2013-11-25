@@ -67,7 +67,7 @@
 		productList : [
 			{
 				type : "product",
-				productType : [0, 1, 3, 7],
+				productType : 3,
 				id : 0,
 				lat0 : -5,
 				lat1 : 5,
