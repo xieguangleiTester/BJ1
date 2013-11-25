@@ -1,0 +1,6 @@
+username:
+rsidadmin
+password:
+64879460
+database:
+rsid
