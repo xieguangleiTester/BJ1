@@ -1,9 +1,9 @@
-#接口
+#接口说明
 
 ##certify.php
 ###参数
-userName : 用户名
-passwords : 密码
+* userName : 用户名
+* passwords : 密码
 ###返回
 {
 	certified : true,
